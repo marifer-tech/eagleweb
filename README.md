@@ -1,6 +1,6 @@
-# Minha Empresa - Desenvolvimento de Software
+# EAGLE WEB - Desenvolvimento de Software
 
-Bem-vindo ao repositório do site oficial da **Minha Empresa**! 🚀  
+Bem-vindo ao repositório do site oficial da **eagle web**! 🚀  
 Somos uma empresa dedicada ao desenvolvimento de software sob medida, ajudando nossos clientes a transformar suas ideias em soluções digitais.
 
 ---
